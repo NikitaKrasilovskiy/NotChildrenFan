@@ -1,0 +1,659 @@
+fileFormatVersion: 2
+guid: d322872a79848ab4987bc134fb01f2be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6942493579211008447
+    second: podskazky_0
+  - first:
+      213: 5361151697057450344
+    second: podskazky_1
+  - first:
+      213: 596610099495157013
+    second: podskazky_2
+  - first:
+      213: 1268552778289853134
+    second: podskazky_3
+  - first:
+      213: -5240965551177657357
+    second: podskazky_4
+  - first:
+      213: -419978434343129286
+    second: podskazky_5
+  - first:
+      213: -8969397536656962310
+    second: podskazky_6
+  - first:
+      213: -1140538855781286995
+    second: podskazky_7
+  - first:
+      213: 3839600636606057695
+    second: podskazky_8
+  - first:
+      213: 2813547634078900630
+    second: podskazky_9
+  - first:
+      213: -7422930799651569014
+    second: podskazky_10
+  - first:
+      213: 7940664244356574652
+    second: podskazky_11
+  - first:
+      213: 8568009679153339720
+    second: podskazky_12
+  - first:
+      213: -4534453280494738685
+    second: podskazky_13
+  - first:
+      213: 4161329587967630875
+    second: podskazky_14
+  - first:
+      213: 1112048842726002489
+    second: podskazky_15
+  - first:
+      213: 1360380349556023638
+    second: podskazky_16
+  - first:
+      213: -1613867891086357744
+    second: podskazky_17
+  - first:
+      213: 7084051552192900425
+    second: podskazky_18
+  - first:
+      213: 4707119798390778043
+    second: podskazky_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: podskazky_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1442
+        width: 331
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14692b36fde47af90800000000000000
+      internalID: -6942493579211008447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1009
+        width: 402
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869871a5013a66a40800000000000000
+      internalID: 5361151697057450344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 373
+        width: 311
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db1d979b5974800800000000000000
+      internalID: 596610099495157013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_3
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1504
+        width: 288
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec23dc0e70eca9110800000000000000
+      internalID: 1268552778289853134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 835
+        width: 401
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31ff959995447b0800000000000000
+      internalID: -5240965551177657357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 294
+        width: 362
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f27afc6dfeb2af0800000000000000
+      internalID: -419978434343129286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1375
+        width: 428
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc4c4a567c468380800000000000000
+      internalID: -8969397536656962310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_7
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 994
+        width: 437
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab30a814fdfb20f0800000000000000
+      internalID: -1140538855781286995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_8
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 611
+        width: 333
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc84489f60094530800000000000000
+      internalID: 3839600636606057695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 81
+        width: 432
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691e9e79aaabb0720800000000000000
+      internalID: 2813547634078900630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_10
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 115
+        width: 602
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82467e14c37cf890800000000000000
+      internalID: -7422930799651569014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_11
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 935
+        width: 331
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbde48d0f08e23e60800000000000000
+      internalID: 7940664244356574652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_12
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1449
+        width: 342
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d1b0e686fa7e670800000000000000
+      internalID: 8568009679153339720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_13
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 1538
+        width: 456
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a18514c26211c0800000000000000
+      internalID: -4534453280494738685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_14
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 1792
+        width: 238
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e122c663300c930800000000000000
+      internalID: 4161329587967630875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_15
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1783
+        width: 219
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f4193d78ace6f00800000000000000
+      internalID: 1112048842726002489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_16
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1039
+        width: 217
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65165b668ba01e210800000000000000
+      internalID: 1360380349556023638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_17
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 971
+        width: 286
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b836524b36a99e0800000000000000
+      internalID: -1613867891086357744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_18
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 99
+        width: 798
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d23039a5b9f4260800000000000000
+      internalID: 7084051552192900425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podskazky_19
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 505
+        width: 732
+        height: 1179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb86a4a648c035140800000000000000
+      internalID: 4707119798390778043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      podskazky_0: -6942493579211008447
+      podskazky_5: -419978434343129286
+      podskazky_13: -4534453280494738685
+      podskazky_1: 5361151697057450344
+      podskazky_11: 7940664244356574652
+      podskazky_16: 1360380349556023638
+      podskazky_6: -8969397536656962310
+      podskazky_3: 1268552778289853134
+      podskazky_18: 7084051552192900425
+      podskazky_7: -1140538855781286995
+      podskazky_15: 1112048842726002489
+      podskazky_4: -5240965551177657357
+      podskazky_12: 8568009679153339720
+      podskazky_19: 4707119798390778043
+      podskazky_10: -7422930799651569014
+      podskazky_8: 3839600636606057695
+      podskazky_2: 596610099495157013
+      podskazky_17: -1613867891086357744
+      podskazky_9: 2813547634078900630
+      podskazky_14: 4161329587967630875
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

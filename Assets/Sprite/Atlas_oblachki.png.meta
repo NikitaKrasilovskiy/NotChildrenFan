@@ -1,0 +1,646 @@
+fileFormatVersion: 2
+guid: 9478ef143568acb448245b6d8e358539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3504517685261279898
+    second: Atlas_oblachki_0
+  - first:
+      213: -8707072510102380620
+    second: Atlas_oblachki_1
+  - first:
+      213: -7606813060111186449
+    second: Atlas_oblachki_2
+  - first:
+      213: -7024460769754090714
+    second: Atlas_oblachki_3
+  - first:
+      213: -194013845972483881
+    second: Atlas_oblachki_4
+  - first:
+      213: -37739718886410439
+    second: Atlas_oblachki_5
+  - first:
+      213: 6776629235876477041
+    second: Atlas_oblachki_6
+  - first:
+      213: 5470097873546665850
+    second: Atlas_oblachki_7
+  - first:
+      213: 1963591797726006561
+    second: Atlas_oblachki_8
+  - first:
+      213: -8919881771347738729
+    second: Atlas_oblachki_9
+  - first:
+      213: 4656515142860711435
+    second: Atlas_oblachki_10
+  - first:
+      213: -597649320714750131
+    second: Atlas_oblachki_11
+  - first:
+      213: 2547556125609931480
+    second: Atlas_oblachki_12
+  - first:
+      213: -1032976694838592126
+    second: Atlas_oblachki_13
+  - first:
+      213: -2803244025973862091
+    second: Atlas_oblachki_14
+  - first:
+      213: 9220602550466555600
+    second: Atlas_oblachki_15
+  - first:
+      213: 1351911619963070824
+    second: Atlas_oblachki_16
+  - first:
+      213: 3183759444273595321
+    second: Atlas_oblachki_17
+  - first:
+      213: -7992961386594333933
+    second: Atlas_oblachki_18
+  - first:
+      213: 1208947549980945737
+    second: Atlas_oblachki_19
+  - first:
+      213: -5065932779856584273
+    second: Atlas_oblachki_20
+  - first:
+      213: 2027437730049427677
+    second: Atlas_oblachki_21
+  - first:
+      213: 3582666240370413596
+    second: Atlas_oblachki_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_oblachki_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2966
+        width: 1429
+        height: 1130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d5de4abb37d5fc0800000000000000
+      internalID: -3504517685261279898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_1
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 3066
+        width: 1314
+        height: 999
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf57c12fa34a2780800000000000000
+      internalID: -8707072510102380620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_2
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 3558
+        width: 638
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5454f03db2f6690800000000000000
+      internalID: -7606813060111186449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_4
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 3066
+        width: 443
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d08d4d5f69be4df0800000000000000
+      internalID: -194013845972483881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2414
+        width: 536
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9373ad5fcebe97ff0800000000000000
+      internalID: -37739718886410439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2414
+        width: 570
+        height: 506
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178b1fac26c6b0e50800000000000000
+      internalID: 6776629235876477041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_7
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 2687
+        width: 239
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f5e5fb801b9eb40800000000000000
+      internalID: 5470097873546665850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_8
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2178
+        width: 1290
+        height: 854
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d44532654104b10800000000000000
+      internalID: 1963591797726006561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_9
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2498
+        width: 190
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff55cd9c6363480800000000000000
+      internalID: -8919881771347738729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1794
+        width: 582
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a075e9d34f9040800000000000000
+      internalID: 4656515142860711435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_11
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1928
+        width: 549
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d473b8afb19b4b7f0800000000000000
+      internalID: -597649320714750131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_12
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2244
+        width: 234
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2b9587cccba5320800000000000000
+      internalID: 2547556125609931480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1912
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b30936a85cfe2c20800000000000000
+      internalID: 3183759444273595321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 1120
+        height: 1139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b81a8a7fb431190800000000000000
+      internalID: -7992961386594333933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_19
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 607
+        width: 1119
+        height: 1061
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d61b4346b07c010800000000000000
+      internalID: 1208947549980945737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_20
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 451
+        width: 1330
+        height: 1255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa124a82af032b9b0800000000000000
+      internalID: -5065932779856584273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_3
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 2751
+        width: 248
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623f328a52a148e90800000000000000
+      internalID: -7024460769754090714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_13
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 2561
+        width: 202
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d73e24b212aa1f0800000000000000
+      internalID: -1032976694838592126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_oblachki_14
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2303
+        width: 236
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531971d1960e819d0800000000000000
+      internalID: -2803244025973862091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_oblachki_11: -597649320714750131
+      Atlas_oblachki_1: -8707072510102380620
+      Atlas_oblachki_19: 1208947549980945737
+      Atlas_oblachki_2: -7606813060111186449
+      Atlas_oblachki_4: -194013845972483881
+      Atlas_oblachki_10: 4656515142860711435
+      Atlas_oblachki_9: -8919881771347738729
+      Atlas_oblachki_20: -5065932779856584273
+      Atlas_oblachki_8: 1963591797726006561
+      Atlas_oblachki_0: -3504517685261279898
+      Atlas_oblachki_6: 6776629235876477041
+      Atlas_oblachki_14: -2803244025973862091
+      Atlas_oblachki_17: 3183759444273595321
+      Atlas_oblachki_5: -37739718886410439
+      Atlas_oblachki_18: -7992961386594333933
+      Atlas_oblachki_7: 5470097873546665850
+      Atlas_oblachki_12: 2547556125609931480
+      Atlas_oblachki_3: -7024460769754090714
+      Atlas_oblachki_13: -1032976694838592126
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

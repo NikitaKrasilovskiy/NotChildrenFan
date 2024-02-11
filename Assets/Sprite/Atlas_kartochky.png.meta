@@ -1,0 +1,934 @@
+fileFormatVersion: 2
+guid: 357afd34eb3f89748b10ccdd5c45ae91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4844766915900131140
+    second: Atlas_kartochky_0
+  - first:
+      213: -6978279287678404161
+    second: Atlas_kartochky_1
+  - first:
+      213: -2577766122132588337
+    second: Atlas_kartochky_2
+  - first:
+      213: 7807142242776233952
+    second: Atlas_kartochky_3
+  - first:
+      213: -8322827423414518987
+    second: Atlas_kartochky_4
+  - first:
+      213: 483852595312355152
+    second: Atlas_kartochky_5
+  - first:
+      213: 4256099610707899099
+    second: Atlas_kartochky_6
+  - first:
+      213: -4735769410576254119
+    second: Atlas_kartochky_7
+  - first:
+      213: -5913291628567125100
+    second: Atlas_kartochky_8
+  - first:
+      213: -457616885590102650
+    second: Atlas_kartochky_9
+  - first:
+      213: -3974550885095867128
+    second: Atlas_kartochky_10
+  - first:
+      213: 6639728895270580431
+    second: Atlas_kartochky_11
+  - first:
+      213: -15480273497593775
+    second: Atlas_kartochky_12
+  - first:
+      213: -6640125460008096308
+    second: Atlas_kartochky_13
+  - first:
+      213: 7216742466540133372
+    second: Atlas_kartochky_14
+  - first:
+      213: 2769716999831334539
+    second: Atlas_kartochky_15
+  - first:
+      213: -8988082189667945328
+    second: Atlas_kartochky_16
+  - first:
+      213: 3033931747895619799
+    second: Atlas_kartochky_17
+  - first:
+      213: 6292875601195418952
+    second: Atlas_kartochky_18
+  - first:
+      213: 8913851613169192882
+    second: Atlas_kartochky_19
+  - first:
+      213: -8257829417727453895
+    second: Atlas_kartochky_20
+  - first:
+      213: -1872644424922903761
+    second: Atlas_kartochky_21
+  - first:
+      213: -3647644640108839795
+    second: Atlas_kartochky_22
+  - first:
+      213: -5620565778981439172
+    second: Atlas_kartochky_23
+  - first:
+      213: 108656457799565486
+    second: Atlas_kartochky_24
+  - first:
+      213: -4814090552879270627
+    second: Atlas_kartochky_25
+  - first:
+      213: -5771969520954728447
+    second: Atlas_kartochky_26
+  - first:
+      213: -1506066991686792195
+    second: Atlas_kartochky_27
+  - first:
+      213: 2987451244603513683
+    second: Atlas_kartochky_28
+  - first:
+      213: 1820566546396420109
+    second: Atlas_kartochky_29
+  - first:
+      213: 5783720858103562045
+    second: Atlas_kartochky_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_kartochky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3507
+        width: 737
+        height: 589
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8353e982ee3ccb0800000000000000
+      internalID: -4844766915900131140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_1
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3667
+        width: 143
+        height: 125
+      alignment: 9
+      pivot: {x: 0.10458139, y: 0.13737926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9767ad5fb282f90800000000000000
+      internalID: -6978279287678404161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 3804
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc830489e5fe93cd0800000000000000
+      internalID: -2577766122132588337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3942
+        width: 51
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7bf9b718a885c60800000000000000
+      internalID: 7807142242776233952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2612
+        width: 618
+        height: 871
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b7f7cfd806f7c80800000000000000
+      internalID: -8322827423414518987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1480
+        width: 1052
+        height: 1047
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0576e333f5df6b600800000000000000
+      internalID: 483852595312355152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_6
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2105
+        width: 421
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23ce0db04b01b30800000000000000
+      internalID: 4256099610707899099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_7
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2106
+        width: 421
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bf070ffca274eb0800000000000000
+      internalID: -4735769410576254119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_8
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 2611
+        width: 1577
+        height: 1475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49327f10894cfeda0800000000000000
+      internalID: -5913291628567125100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_9
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 3370
+        width: 725
+        height: 700
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6e2bfdd736a9f0800000000000000
+      internalID: -457616885590102650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_10
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 2384
+        width: 956
+        height: 965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7520370f87d8c0800000000000000
+      internalID: -3974550885095867128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1474
+        height: 1167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0ff7f504e052c50800000000000000
+      internalID: 6639728895270580431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_12
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 209
+        width: 144
+        height: 124
+      alignment: 9
+      pivot: {x: 0.112609014, y: 0.13332379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1586625f5c009cff0800000000000000
+      internalID: -15480273497593775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_13
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 17
+        width: 52
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda034331989d3a0800000000000000
+      internalID: -6640125460008096308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_14
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 0
+        width: 1932
+        height: 878
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd9919905072460800000000000000
+      internalID: 7216742466540133372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_15
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 0
+        width: 142
+        height: 388
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eae4fcfe2007620800000000000000
+      internalID: 2769716999831334539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_16
+      rect:
+        serializedVersion: 2
+        x: 3596
+        y: 0
+        width: 292
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094b3d09edae34380800000000000000
+      internalID: -8988082189667945328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_17
+      rect:
+        serializedVersion: 2
+        x: 3592
+        y: 400
+        width: 301
+        height: 390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0391aa9d0ba1a20800000000000000
+      internalID: 3033931747895619799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_18
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 924
+        width: 258
+        height: 399
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845c9f8a409c45750800000000000000
+      internalID: 6292875601195418952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_19
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 925
+        width: 211
+        height: 226
+      alignment: 9
+      pivot: {x: 0.5, y: 0.098251745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf0e7780dc54bb70800000000000000
+      internalID: 8913851613169192882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_20
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 924
+        width: 432
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935959c75eb466d80800000000000000
+      internalID: -8257829417727453895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_21
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 1366
+        width: 287
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcad531d70306e0800000000000000
+      internalID: -1872644424922903761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_22
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 1766
+        width: 352
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c747f9686f06dc0800000000000000
+      internalID: -3647644640108839795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_23
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 2177
+        width: 367
+        height: 351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39381bf33dbff1b0800000000000000
+      internalID: -5620565778981439172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_24
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3510
+        width: 171
+        height: 141
+      alignment: 9
+      pivot: {x: 0.10137368, y: 0.87732196}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea002b10976028100800000000000000
+      internalID: 108656457799565486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_25
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1507
+        width: 447
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153117f52ae03db0800000000000000
+      internalID: -4814090552879270627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_26
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1504
+        width: 129
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100ac194d48d5efa0800000000000000
+      internalID: -5771969520954728447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_27
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 1508
+        width: 487
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb4190fc00691be0800000000000000
+      internalID: -1506066991686792195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_28
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1504
+        width: 134
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b146a241f857920800000000000000
+      internalID: 2987451244603513683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_29
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1505
+        width: 865
+        height: 581
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d081befc0a3f34910800000000000000
+      internalID: 1820566546396420109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_kartochky_30
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1315
+        width: 397
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fb74b1a77e34050800000000000000
+      internalID: 5783720858103562045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_kartochky_24: 108656457799565486
+      Atlas_kartochky_10: -3974550885095867128
+      Atlas_kartochky_21: -1872644424922903761
+      Atlas_kartochky_5: 483852595312355152
+      Atlas_kartochky_2: -2577766122132588337
+      Atlas_kartochky_18: 6292875601195418952
+      Atlas_kartochky_16: -8988082189667945328
+      Atlas_kartochky_29: 1820566546396420109
+      Atlas_kartochky_30: 5783720858103562045
+      Atlas_kartochky_11: 6639728895270580431
+      Atlas_kartochky_15: 2769716999831334539
+      Atlas_kartochky_6: 4256099610707899099
+      Atlas_kartochky_7: -4735769410576254119
+      Atlas_kartochky_23: -5620565778981439172
+      Atlas_kartochky_13: -6640125460008096308
+      Atlas_kartochky_25: -4814090552879270627
+      Atlas_kartochky_26: -5771969520954728447
+      Atlas_kartochky_8: -5913291628567125100
+      Atlas_kartochky_3: 7807142242776233952
+      Atlas_kartochky_20: -8257829417727453895
+      Atlas_kartochky_19: 8913851613169192882
+      Atlas_kartochky_0: -4844766915900131140
+      Atlas_kartochky_27: -1506066991686792195
+      Atlas_kartochky_17: 3033931747895619799
+      Atlas_kartochky_12: -15480273497593775
+      Atlas_kartochky_22: -3647644640108839795
+      Atlas_kartochky_4: -8322827423414518987
+      Atlas_kartochky_28: 2987451244603513683
+      Atlas_kartochky_1: -6978279287678404161
+      Atlas_kartochky_14: 7216742466540133372
+      Atlas_kartochky_9: -457616885590102650
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: 73ccde5e6cd00f84ea29a342c1dff9a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8119332581098706568
+    second: Atlas_1_sklad_0
+  - first:
+      213: -8318781188697794585
+    second: Atlas_1_sklad_1
+  - first:
+      213: -5641240834045408140
+    second: Atlas_1_sklad_2
+  - first:
+      213: 1775628321270280613
+    second: Atlas_1_sklad_3
+  - first:
+      213: 7933743828484020015
+    second: Atlas_1_sklad_4
+  - first:
+      213: 7178597780194439958
+    second: Atlas_1_sklad_5
+  - first:
+      213: 867841195331117376
+    second: Atlas_1_sklad_6
+  - first:
+      213: -3123836785986703861
+    second: Atlas_1_sklad_7
+  - first:
+      213: -3983536568265608170
+    second: Atlas_1_sklad_8
+  - first:
+      213: -9019104572676315526
+    second: Atlas_1_sklad_9
+  - first:
+      213: 5346787632780199884
+    second: Atlas_1_sklad_10
+  - first:
+      213: 8821051836150529140
+    second: Atlas_1_sklad_11
+  - first:
+      213: 7099608996929655587
+    second: Atlas_1_sklad_12
+  - first:
+      213: 344426671965132116
+    second: Atlas_1_sklad_13
+  - first:
+      213: 4328289928117939999
+    second: Atlas_1_sklad_14
+  - first:
+      213: 8626157097125593066
+    second: Atlas_1_sklad_15
+  - first:
+      213: -3126135013915180983
+    second: Atlas_1_sklad_16
+  - first:
+      213: -4041358182704959402
+    second: Atlas_1_sklad_17
+  - first:
+      213: -5645449152183724276
+    second: Atlas_1_sklad_18
+  - first:
+      213: 3067297917951415561
+    second: Atlas_1_sklad_19
+  - first:
+      213: 7580061251619207327
+    second: Atlas_1_sklad_20
+  - first:
+      213: 3772068916747030815
+    second: Atlas_1_sklad_21
+  - first:
+      213: 7958570926018290738
+    second: Atlas_1_sklad_22
+  - first:
+      213: -548692840264862813
+    second: Atlas_1_sklad_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Atlas_1_sklad_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3640
+        width: 4002
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d4a5e6f9ada070800000000000000
+      internalID: 8119332581098706568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2699
+        width: 3998
+        height: 939
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7577b6590cd8c80800000000000000
+      internalID: -8318781188697794585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1774
+        width: 4071
+        height: 912
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8b4a995946b1b0800000000000000
+      internalID: -5641240834045408140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1382
+        width: 85
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1307eec8c44a810800000000000000
+      internalID: 1775628321270280613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1473
+        width: 604
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27dcbb2af15a1e60800000000000000
+      internalID: 7933743828484020015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1365
+        width: 560
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b5e1b5a08f9360800000000000000
+      internalID: 7178597780194439958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1361
+        width: 576
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041692918f03b0c00800000000000000
+      internalID: 867841195331117376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_7
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1394
+        width: 116
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee6f27ef6e5a4d0800000000000000
+      internalID: -3123836785986703861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_8
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1486
+        width: 633
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ffbac892a7b8c0800000000000000
+      internalID: -3983536568265608170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_9
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 1474
+        width: 747
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76e6892d24b5d280800000000000000
+      internalID: -9019104572676315526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_10
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1030
+        width: 800
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c055060b933a40800000000000000
+      internalID: 5346787632780199884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_11
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 994
+        width: 690
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3f07b8ebaa6a70800000000000000
+      internalID: 8821051836150529140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_12
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 283
+        width: 647
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323d82274c0e68260800000000000000
+      internalID: 7099608996929655587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_13
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 0
+        width: 885
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d6a9bb36a7c400800000000000000
+      internalID: 344426671965132116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_14
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 479
+        width: 636
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fee52e1cc211c30800000000000000
+      internalID: 4328289928117939999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_15
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 735
+        width: 87
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb2ee2d2446b770800000000000000
+      internalID: 8626157097125593066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_16
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 702
+        width: 434
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940ccaf84ccbd94d0800000000000000
+      internalID: -3126135013915180983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_17
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 709
+        width: 433
+        height: 656
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650b0c515263ae7c0800000000000000
+      internalID: -4041358182704959402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_18
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 423
+        width: 1045
+        height: 902
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c071f8e28e557a1b0800000000000000
+      internalID: -5645449152183724276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_19
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 1362
+        width: 216
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9051ac3843b319a20800000000000000
+      internalID: 3067297917951415561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 1139
+        height: 884
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9837762c89c13960800000000000000
+      internalID: 7580061251619207327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 11
+        width: 1038
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11dffac1b4195430800000000000000
+      internalID: 3772068916747030815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_22
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 290
+        width: 80
+        height: 731
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23462154716827e60800000000000000
+      internalID: 7958570926018290738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1_sklad_23
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 1392
+        width: 215
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a37635d4c6a268f0800000000000000
+      internalID: -548692840264862813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Atlas_1_sklad_23: -548692840264862813
+      Atlas_1_sklad_12: 7099608996929655587
+      Atlas_1_sklad_14: 4328289928117939999
+      Atlas_1_sklad_4: 7933743828484020015
+      Atlas_1_sklad_18: -5645449152183724276
+      Atlas_1_sklad_19: 3067297917951415561
+      Atlas_1_sklad_5: 7178597780194439958
+      Atlas_1_sklad_2: -5641240834045408140
+      Atlas_1_sklad_21: 3772068916747030815
+      Atlas_1_sklad_13: 344426671965132116
+      Atlas_1_sklad_22: 7958570926018290738
+      Atlas_1_sklad_0: 8119332581098706568
+      Atlas_1_sklad_7: -3123836785986703861
+      Atlas_1_sklad_8: -3983536568265608170
+      Atlas_1_sklad_10: 5346787632780199884
+      Atlas_1_sklad_16: -3126135013915180983
+      Atlas_1_sklad_3: 1775628321270280613
+      Atlas_1_sklad_1: -8318781188697794585
+      Atlas_1_sklad_15: 8626157097125593066
+      Atlas_1_sklad_20: 7580061251619207327
+      Atlas_1_sklad_17: -4041358182704959402
+      Atlas_1_sklad_6: 867841195331117376
+      Atlas_1_sklad_11: 8821051836150529140
+      Atlas_1_sklad_9: -9019104572676315526
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
